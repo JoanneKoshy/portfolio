@@ -37,7 +37,7 @@ elif choice == "Skills":
     st.header("Skills")
     skills = [
         "Programming Languages: Python, Java, C++, MySQL",
-        "Web Development: HTML, CSS, JavaScript",
+        "Web Development: HTML, CSS",
         "Data Structures & Algorithms",
         "Generative AI",
         "AI Tools"
